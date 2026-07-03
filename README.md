@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
