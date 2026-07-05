@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
@@ -72,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
