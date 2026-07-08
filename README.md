@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -111,4 +112,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0264-ugly-number-ii) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
