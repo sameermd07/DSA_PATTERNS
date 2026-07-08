@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0658-find-k-closest-elements) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0240-search-a-2d-matrix-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
