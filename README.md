@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Trie
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
