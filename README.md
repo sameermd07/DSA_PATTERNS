@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0076-minimum-window-substring) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0767-reorganize-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Trie
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -110,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
