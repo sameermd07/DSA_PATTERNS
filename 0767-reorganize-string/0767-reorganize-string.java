@@ -1,41 +1,56 @@
+import java.util.*;
+
 class Solution {
     public String reorganizeString(String s) {
-        int ch[]=new int[26];
-        for(char c:s.toCharArray()){
-            ch[c-'a']++;
+
+        int[] freq = new int[26];
+
+        // Count frequencies
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
-        StringBuilder str=new StringBuilder();
-        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->{
-            return b[1]-a[1];
-        });
-        for(int i=0;i<26;i++){
-            if(ch[i]!=0){
-                pq.offer(new int[]{i,ch[i]});
+        int maxFreq = 0;
+        for (int f : freq) {
+            maxFreq = Math.max(maxFreq, f);
+        }
+        if (maxFreq > (s.length() + 1) / 2)
+            return "";
+
+        // Max Heap based on frequency
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> b[1] - a[1]
+        );
+
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                pq.offer(new int[]{i, freq[i]});
             }
         }
-        while(pq.size()>=2){
-            int[] arr1=pq.peek();
-            pq.remove();
-            int[] arr2=pq.peek();
-            pq.remove();
-            System.out.println((char)(arr1[0]+'a'));
-            str.append((char)(arr1[0]+'a'));
-            str.append((char)(arr2[0]+'a'));
-            if(arr1[1]-1!=0){
-                pq.offer(new int[]{arr1[0],arr1[1]-1});
-            }
-            if(arr2[1]-1!=0){
-                pq.offer(new int[]{arr2[0],arr2[1]-1});
-            }
+
+        StringBuilder ans = new StringBuilder();
+
+        while (pq.size() >= 2) {
+
+            int[] first = pq.poll();
+            int[] second = pq.poll();
+
+            ans.append((char)(first[0] + 'a'));
+            ans.append((char)(second[0] + 'a'));
+
+            first[1]--;
+            second[1]--;
+
+            if (first[1] > 0)
+                pq.offer(first);
+
+            if (second[1] > 0)
+                pq.offer(second);
         }
-        if(!pq.isEmpty()){
-            int last[]=pq.peek();
-            if(last[1]!=1){
-                return "";
-            }else{
-                str.append((char)(last[0]+'a'));
-            }
+
+        if (!pq.isEmpty()) {
+            ans.append((char)(pq.poll()[0] + 'a'));
         }
-        return str.toString();
+
+        return ans.toString();
     }
 }
