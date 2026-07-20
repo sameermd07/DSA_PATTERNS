@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0074-search-a-2d-matrix) |
+| [0198-house-robber](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0240-search-a-2d-matrix-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sameermd07/DSA_PATTERNS/tree/master/0416-partition-equal-subset-sum) |
 ## Tree
